@@ -1,0 +1,4 @@
+[[build.env]]
+name='RAILS_SERVE_STATIC_FILES'
+value='true'
+
