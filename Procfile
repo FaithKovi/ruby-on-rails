@@ -1,1 +1,1 @@
-web: bundle exec puma -C config/puma.rb
+web: bundle exec puma --bind tcp://0.0.0.0:3333
